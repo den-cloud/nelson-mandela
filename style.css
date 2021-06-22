@@ -1,0 +1,40 @@
+body {
+    font-family: cursive;
+    margin: 10px;
+}
+
+nav {
+    background-color: #111;
+    padding: 15px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: #fff;
+    padding: 15px;
+}
+
+.flex {
+    display: flex;
+}
+
+footer {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+.img-div p {
+    background-color: #eee;
+    font-size: 12px;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
